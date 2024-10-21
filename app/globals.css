@@ -13,7 +13,7 @@
 }
 
 body {
- 
+  font-family: "GeistMono", monospace;
 }
 
 @layer utilities {
